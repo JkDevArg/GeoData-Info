@@ -8,4 +8,6 @@ API Usada: https://www.ip2location.com/
 https://www.elladodelmal.com/2022/05/whatsapp-como-pueden-saber-donde-vives.html
 
 
+![Vista Previa](https://raw.githubusercontent.com/JkDevArg/GeoData-Info/main/Screenshot_1.jpg)
+
 🛑**Nota**: No me hago responsable por el uso que le den. Se comparte para uso educacional🛑
