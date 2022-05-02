@@ -1,7 +1,7 @@
 # GeoData-Info 👤🗺
 Replicando una forma de obtener datos de geolocalización de una persona utilizando una API (Free/Pay). 👤🗺
 
-API Usada: https://api.ip2location.com/v2/
+API Usada: https://www.ip2location.com/
 
 
 # Tema original:
